@@ -1,7 +1,7 @@
-#Terceiro Trimestre
+# Terceiro Trimestre
 
-##Identificação 
+## Identificação 
 Vitor Hugo da Silva Santos - Nr, 27
 
-##Conteúdo
+## Conteúdo
 HTML, CSS, JavaScript
