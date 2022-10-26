@@ -1,1 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.calculadora {
+    background: rgb(255, 93, 228);
+    width: 200px;
+    padding: 10px;
+}
 
+#btnCalc {
+    background: rgb(214, 12, 214);
+    color: rgb(0, 0, 0);
+    padding: 7px;
+}
+#btnCalc:hover {
+    background: rgb(160, 23, 130);
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+.spResultado{
+    background: aqua;
+    color: blue;
+    padding: 4px;
+    margin: 2px;
+
+}
